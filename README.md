@@ -5,7 +5,8 @@
 
 <div align="center">
   <pre>⭐I'm a 23 y.o. Junior full-stack developer.⭐
-  At the moment, I am studying various web technologies. I like to create and learn. Algorithms and automation are our everything!
+  At the moment, I am studying various web technologies. I like to create and learn.
+  Algorithms and automation are our everything!
   </pre>
   
 </div>
