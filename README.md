@@ -14,12 +14,15 @@
 </div>
 
 ## 🛠 Skills
-
 <div align="center">
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@b450837d-7d73-41e3-8b9e-3dbb2492f33b/556327da-3c83-440a-8d98-3eeefa90274d.png" width="500"/></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@b450837d-7d73-41e3-8b9e-3dbb2492f33b/fc251914-65cf-494f-afe8-cf1d5beb1fec.png" /></a>
+
+
+
   <img src="https://github-readme-stats.vercel.app/api?username=4exan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=4exan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=4exan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-
 
 |Category|Skills|
 |-|-|
